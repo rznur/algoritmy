@@ -68,7 +68,7 @@ print(f'\nCompanies with profits below mean: {below_avg}')
 #Примечание: для решения задач попробуйте применить какую-нибудь коллекцию из модуля collections
 
 
-# In[2]:
+# In[ ]:
 
 
 first = input()
